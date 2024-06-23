@@ -49,7 +49,7 @@ code .
 </html>
 ```
 
-[ ] Use the <img> tag to add the logo (located in `./assets/images`) to the webpage:
+[ ] Use the `<img>` tag to add the logo (located in `./assets/images`) to the webpage:
 ```
 <header>
     <h1>Welcome to The Devs' Official Website</h1>
@@ -57,7 +57,7 @@ code .
 </header>
 ```
 
-[ ]  Use the <img> tag to add concert images (located in `./assets/images`) to the webpage:
+[ ]  Use the `<img>` tag to add concert images (located in `./assets/images`) to the webpage:
 ```
 <main>
     <h2>Our Latest Concert</h2>
@@ -66,7 +66,7 @@ code .
 </main>
 ```
 
-[ ] Use the <figure> and <figcaption> tags to add a caption to one of the concert pictures:
+[ ] Use the `<figure>` and `<figcaption>` tags to add a caption to one of the concert pictures:
 ```
 <main>
     <h2>Our Latest Concert</h2>
@@ -78,7 +78,7 @@ code .
 </main>
 ```
 
-[ ] Use the <video> tag to embed the band's latest music video under the images. Ensure the video has controls:
+[ ] Use the `<video>` tag to embed the band's latest music video under the images. Ensure the video has controls:
 ```
 <h2>Watch Our Latest Music Video</h2>
 <video src="./assets/videos/music-video.mp4" controls muted style="max-width: 100%;">
