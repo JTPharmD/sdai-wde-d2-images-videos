@@ -4,7 +4,7 @@
 
 ## Description
 
-The objective of this assignment is to help a band called "The Rockstars" create their website by adding images and videos using HTML. This will reinforce your understanding of HTML tags and attributes for images and videos.
+In this assignment, you will help a fictional band, "The Rockstars," build their website by integrating images and videos using HTML. Your task is to enhance the band's online presence by embedding engaging visual content, such as band photos, album covers, and music videos, directly into their web pages. This project will deepen your understanding of HTML by practicing key tags and attributes like <img> and <video>, allowing you to create visually appealing and accessible multimedia elements that bring the band's story to life.
 
 ## Learning Outcomes
 
